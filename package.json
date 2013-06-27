@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cd tests && mocha -u qunit -R nyan test.js "
   },
-  "repository": "",
+  "repository": "https://github.com/davidmarkclements/endow",
   "author": "David Mark Clements",
   "license": "MIT",
   "dependencies": {
