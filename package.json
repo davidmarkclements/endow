@@ -1,0 +1,17 @@
+{
+  "name": "endow",
+  "version": "0.0.1",
+  "description": "endow objects with abilities",
+  "main": "endow.js",
+  "scripts": {
+    "test": "cd tests && mocha -u qunit -R nyan test.js "
+  },
+  "repository": "",
+  "author": "David Mark Clements",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "~0.6.5",
+    "raf": "0.0.3",
+    "chai": "~1.7.0"
+  }
+}
